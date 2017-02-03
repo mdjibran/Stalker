@@ -1,0 +1,22 @@
+D:\JIBRAN\Applications\stalker\stalker\stalker\bin\Debug\stalker.exe
+D:\JIBRAN\Applications\stalker\stalker\stalker\bin\Debug\stalker.pdb
+D:\JIBRAN\Applications\stalker\stalker\stalker\bin\Debug\AForge.Video.DirectShow.dll
+D:\JIBRAN\Applications\stalker\stalker\stalker\bin\Debug\AForge.Video.dll
+D:\JIBRAN\Applications\stalker\stalker\stalker\bin\Debug\WebCam_Capture.dll
+D:\JIBRAN\Applications\stalker\stalker\stalker\bin\Debug\AForge.dll
+D:\JIBRAN\Applications\stalker\stalker\stalker\obj\x86\Debug\stalker.Form1.resources
+D:\JIBRAN\Applications\stalker\stalker\stalker\obj\x86\Debug\stalker.Properties.Resources.resources
+D:\JIBRAN\Applications\stalker\stalker\stalker\obj\x86\Debug\stalker.csproj.GenerateResource.Cache
+D:\JIBRAN\Applications\stalker\stalker\stalker\obj\x86\Debug\stalker.exe
+D:\JIBRAN\Applications\stalker\stalker\stalker\obj\x86\Debug\stalker.pdb
+D:\JIBRAN\Applications\deploy Stalker\stalker\stalker\bin\Debug\stalker.exe.config
+D:\JIBRAN\Applications\deploy Stalker\stalker\stalker\bin\Debug\stalker.exe
+D:\JIBRAN\Applications\deploy Stalker\stalker\stalker\bin\Debug\stalker.pdb
+D:\JIBRAN\Applications\deploy Stalker\stalker\stalker\bin\Debug\AForge.dll
+D:\JIBRAN\Applications\deploy Stalker\stalker\stalker\obj\x86\Debug\stalker.Form1.resources
+D:\JIBRAN\Applications\deploy Stalker\stalker\stalker\obj\x86\Debug\stalker.landing.resources
+D:\JIBRAN\Applications\deploy Stalker\stalker\stalker\obj\x86\Debug\stalker.Properties.Resources.resources
+D:\JIBRAN\Applications\deploy Stalker\stalker\stalker\obj\x86\Debug\stalker.csproj.GenerateResource.Cache
+D:\JIBRAN\Applications\deploy Stalker\stalker\stalker\obj\x86\Debug\stalker.exe
+D:\JIBRAN\Applications\deploy Stalker\stalker\stalker\obj\x86\Debug\stalker.pdb
+D:\JIBRAN\Applications\deploy Stalker\stalker\stalker\obj\x86\Debug\stalker.csprojResolveAssemblyReference.cache
